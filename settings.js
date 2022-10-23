@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+0773074107']
-global.ownertag = '+0773074107' //your tag number
+global.owner = ['+94 76 482 9228']
+global.ownertag = '+94 76 482 9228' //your tag number
 global.botname = '🆂🅰🅳🆄🅿🅰 🅱🅾🆃 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "🆂🅻 🆂🅰🅳🆄🅿🅰" // sticker author
