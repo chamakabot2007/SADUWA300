@@ -11,8 +11,41 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `*•.¸♡ ＳＡＤＵＰＡ ＭＤ ＷＰ ＢＯＴ ♡¸.•*
+
+               𝙷𝙴𝚈 𝙸 𝙰𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾𝚆!
+
+                               😝❤️
+
+                𝙷𝙾𝚆 𝙲𝙰𝙽 𝙸 𝙷𝙴𝙻𝙿 𝚈𝙾𝚄?
+
+                               😉❤️
+
+               𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙼𝙳.
+
+                      𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐀𝐔𝐃𝐈𝐎
+
+                         ✡️ .𝙨𝙤𝙣𝙜 (𝚜𝚘𝚗𝚐 𝚗𝚊𝚖𝚎)
+
+                         ✡️ .𝙮𝙩        ( 𝚢𝚝 𝚕𝚒𝚗𝚔)
+
+                         ✡️ .𝗳𝗯        (𝙵𝙱 𝙻𝙸𝙽𝙺)       
+
+                       𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐕𝐈𝐃𝐄𝐎
+
+                        ✡️ .𝙫𝙞𝙙𝙚𝙤 (𝚟𝚒𝚍𝚎𝚘 𝚗𝚊𝚖𝚎)
+
+                        ✡️ .𝙛𝙗        (𝚏𝚋 𝚕𝚒𝚗𝚔)
+
+                        ✡️ .𝙮𝙩         (𝚢𝚝 𝚕𝚒𝚗𝚔)
+
+                        ✡️ .𝙥𝙤𝙧𝙣 𝙝𝙪𝙗 (𝙿𝙷 𝚕𝚒𝚗𝚔)
+
+卩ㄖ山乇尺乇ᗪ 乃ㄚ,  
+
+                                        🅂🄻 🅂🄰🄳🅄🄿🄰
+
+𝓒𝓘𝓝𝓣𝓐𝓒𝓣  :) +94 76 482 9228` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -49,9 +82,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94764829228']
 global.ownertag = '+94764829228' //your tag number
-global.botname = '🆂🅰🅳🆄🅿🅰 🅱🅾🆃 - 𝘉𝘖𝘛' //ur bot name
+global.botname = '🅂🄻 🅂🄰🄳🅄🄿🄰 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "🆂🅻 🆂🅰🅳🆄🅿🅰" // sticker author
+global.author = "🅂🄻 🅂🄰🄳🅄🄿🄰 🄱🄾🅃" // sticker author
 global.dragonemoji = '😉' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
